@@ -3,7 +3,7 @@
 #include "pch.h"
 #include <iostream>
 #include <memory>
-#include "ClassTest.h"
+#include "test/ClassTest.h"
 #include "algorithms/BubbleSort.h"
 #include "program_design_basis/Test_4_8.h"
 #include "program_design_basis/Test_6_8.h"
