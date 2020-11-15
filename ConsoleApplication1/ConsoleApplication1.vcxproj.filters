@@ -21,12 +21,6 @@
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="ClassTest.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="EnumTest.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="algorithms\BubbleSort.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -45,18 +39,18 @@
     <ClInclude Include="program_design_basis\Test_page_89.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="test\EnumTest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test\ClassTest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ConsoleApplication1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ClassTest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="EnumTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="algorithms\BubbleSort.cpp">
@@ -75,6 +69,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="program_design_basis\Test_page_89.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test\EnumTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test\ClassTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

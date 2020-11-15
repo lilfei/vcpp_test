@@ -1,4 +1,4 @@
-#include "../pch.h"
+#include "pch.h"
 #include "Test_6_11.h"
 #include <iostream>
 

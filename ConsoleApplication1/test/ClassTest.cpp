@@ -1,4 +1,4 @@
-#include "../pch.h"
+#include "pch.h"
 #include "ClassTest.h"
 #include <iostream>
 #include <memory>
