@@ -152,6 +152,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="algorithms\BubbleSort.h" />
+    <ClInclude Include="algorithms\HeapSort.h" />
+    <ClInclude Include="algorithms\QuickSort.h" />
+    <ClInclude Include="algorithms\SelectionSort.h" />
+    <ClInclude Include="algorithms\InsertionSort.h" />
+    <ClInclude Include="algorithms\ShellSort.h" />
+    <ClInclude Include="algorithms\MergeSort.h" />
     <ClInclude Include="test\ClassTest.h" />
     <ClInclude Include="test\EnumTest.h" />
     <ClInclude Include="pch.h" />
@@ -163,6 +169,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="algorithms\BubbleSort.cpp" />
+    <ClCompile Include="algorithms\HeapSort.cpp" />
+    <ClCompile Include="algorithms\QuickSort.cpp" />
+    <ClCompile Include="algorithms\SelectionSort.cpp" />
+    <ClCompile Include="algorithms\InsertionSort.cpp" />
+    <ClCompile Include="algorithms\ShellSort.cpp" />
+    <ClCompile Include="algorithms\MergeSort.cpp" />
     <ClCompile Include="test\ClassTest.cpp" />
     <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="test\EnumTest.cpp" />

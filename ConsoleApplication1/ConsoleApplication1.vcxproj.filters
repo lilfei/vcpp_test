@@ -45,6 +45,24 @@
     <ClInclude Include="test\ClassTest.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="algorithms\HeapSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="algorithms\QuickSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="algorithms\SelectionSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="algorithms\InsertionSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="algorithms\ShellSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="algorithms\MergeSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -75,6 +93,24 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="test\ClassTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="algorithms\HeapSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="algorithms\QuickSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="algorithms\SelectionSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="algorithms\InsertionSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="algorithms\ShellSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="algorithms\MergeSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

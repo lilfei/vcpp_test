@@ -5,11 +5,18 @@
 #include <memory>
 #include "test/ClassTest.h"
 #include "algorithms/BubbleSort.h"
+#include "algorithms/HeapSort.h"
+#include "algorithms/InsertionSort.h"
+#include "algorithms/MergeSort.h"
+#include "algorithms/QuickSort.h"
+#include "algorithms/SelectionSort.h"
+#include "algorithms/ShellSort.h"
 #include "program_design_basis/Test_4_8.h"
 #include "program_design_basis/Test_6_8.h"
 #include "program_design_basis/Test_6_11.h"
 #include "program_design_basis/Test_page_88.h"
 #include "program_design_basis/Test_page_89.h"
+
 
 using namespace std;
 
@@ -19,10 +26,16 @@ int main() {
 	//Test_6_8();
 
 	//BubbleSort();
+	//HeapSort();
+	//InsertionSort();
+	//MergeSort();
+	QuickSort();
+	//SelectionSort();
+	//ShellSort();
 
 	//Test_6_11();
 	//Test_page_88();
-	Test_page_89();
+	//Test_page_89();
 	//ClassTest a(1);
 
 	return 0;

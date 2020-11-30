@@ -10,5 +10,15 @@
 #define PCH_H
 
 // TODO: 添加要在此处预编译的标头
+#define BUBBLESORT_H
+#define HEAPSORT_H
+#define QUICKSORT_H
+#define TEST_4_8_H
+#define TEST_6_11_H
+#define TEST_6_8_H
+#define TEST_PAGE_88_H
+#define TEST_PAGE_89_H
+#define CLASSTEST_H
+#define ENUMTEST_H
 
 #endif //PCH_H
