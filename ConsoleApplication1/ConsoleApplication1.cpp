@@ -11,6 +11,7 @@
 #include "algorithms/QuickSort.h"
 #include "algorithms/SelectionSort.h"
 #include "algorithms/ShellSort.h"
+#include "expert_c_programming/AnalysisCDeclare.h"
 #include "program_design_basis/Test_4_8.h"
 #include "program_design_basis/Test_6_8.h"
 #include "program_design_basis/Test_6_11.h"
@@ -22,17 +23,19 @@ using namespace std;
 
 int main() {
 	cout << "我的世界!" << endl;
-	//Test_4_8();
-	//Test_6_8();
 
 	//BubbleSort();
 	//HeapSort();
 	//InsertionSort();
 	//MergeSort();
-	QuickSort();
+	//QuickSort();
 	//SelectionSort();
 	//ShellSort();
 
+	AnalysisCDeclare();
+
+	//Test_4_8();
+	//Test_6_8();
 	//Test_6_11();
 	//Test_page_88();
 	//Test_page_89();
