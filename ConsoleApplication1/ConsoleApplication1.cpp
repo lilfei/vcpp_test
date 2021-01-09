@@ -4,6 +4,7 @@
 #include <iostream>
 #include <memory>
 #include "test/ClassTest.h"
+#include "test/JumpTest.h"
 #include "algorithms/BubbleSort.h"
 #include "algorithms/HeapSort.h"
 #include "algorithms/InsertionSort.h"
@@ -24,6 +25,9 @@ using namespace std;
 int main() {
 	cout << "我的世界!" << endl;
 
+	//ClassTest a(1);
+	JumpTest();
+
 	//BubbleSort();
 	//HeapSort();
 	//InsertionSort();
@@ -32,14 +36,13 @@ int main() {
 	//SelectionSort();
 	//ShellSort();
 
-	AnalysisCDeclare();
+	//AnalysisCDeclare();
 
 	//Test_4_8();
 	//Test_6_8();
 	//Test_6_11();
 	//Test_page_88();
 	//Test_page_89();
-	//ClassTest a(1);
 
 	return 0;
 }

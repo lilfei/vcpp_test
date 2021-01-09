@@ -66,6 +66,9 @@
     <ClInclude Include="expert_c_programming\AnalysisCDeclare.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="test\JumpTest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -117,6 +120,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="expert_c_programming\AnalysisCDeclare.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test\JumpTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
