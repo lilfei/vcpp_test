@@ -1,4 +1,4 @@
-#include "pch.h"
+#include "../pch.h"
 
 #include <stdio.h>
 #include <string.h>
@@ -6,8 +6,6 @@
 #include <stdlib.h>
 
 #include <iostream>
-
-#include "AnalysisCDeclare.h"
 
 using namespace std;
 

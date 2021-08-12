@@ -1,6 +1,4 @@
-#include "pch.h"
-#include "BubbleSort.h"
-
+#include "../pch.h"
 #include <iostream>
 
 using namespace std;

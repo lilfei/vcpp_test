@@ -1,6 +1,5 @@
-#include "pch.h"
+#include "../pch.h"
 #include <iostream>
-#include "EnumTest.h"
 
 using namespace std;
 

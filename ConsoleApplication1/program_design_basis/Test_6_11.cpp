@@ -1,5 +1,4 @@
-#include "pch.h"
-#include "Test_6_11.h"
+#include "../pch.h"
 #include <iostream>
 
 using namespace std;

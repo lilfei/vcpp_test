@@ -125,5 +125,8 @@
     <ClCompile Include="test\JumpTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="c_primer_plus\hello_world_test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

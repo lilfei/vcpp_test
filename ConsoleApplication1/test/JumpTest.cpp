@@ -1,8 +1,6 @@
-#include "pch.h"
+#include "../pch.h"
 #include <iostream>
 #include <setjmp.h>
-
-#include "JumpTest.h"
 
 jmp_buf buf;
 

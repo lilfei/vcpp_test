@@ -10,15 +10,24 @@
 #define PCH_H
 
 // TODO: 添加要在此处预编译的标头
-#define BUBBLESORT_H
-#define HEAPSORT_H
-#define QUICKSORT_H
-#define TEST_4_8_H
-#define TEST_6_11_H
-#define TEST_6_8_H
-#define TEST_PAGE_88_H
-#define TEST_PAGE_89_H
-#define CLASSTEST_H
-#define ENUMTEST_H
+#include "algorithms/BubbleSort.h"
+#include "algorithms/HeapSort.h"
+#include "algorithms/InsertionSort.h"
+#include "algorithms/MergeSort.h"
+#include "algorithms/QuickSort.h"
+#include "algorithms/SelectionSort.h"
+#include "algorithms/ShellSort.h"
+
+#include "test/ClassTest.h"
+#include "test/EnumTest.h"
+#include "test/JumpTest.h"
+
+#include "expert_c_programming/AnalysisCDeclare.h"
+
+#include "program_design_basis/Test_4_8.h"
+#include "program_design_basis/Test_6_8.h"
+#include "program_design_basis/Test_6_11.h"
+#include "program_design_basis/Test_page_88.h"
+#include "program_design_basis/Test_page_89.h"
 
 #endif //PCH_H

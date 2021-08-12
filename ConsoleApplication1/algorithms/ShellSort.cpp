@@ -1,6 +1,4 @@
-#include "pch.h"
-#include "ShellSort.h"
-
+#include "../pch.h"
 #include <iostream>
 
 using namespace std;

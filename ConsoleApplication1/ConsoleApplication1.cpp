@@ -3,46 +3,30 @@
 #include "pch.h"
 #include <iostream>
 #include <memory>
-#include "test/ClassTest.h"
-#include "test/JumpTest.h"
-#include "algorithms/BubbleSort.h"
-#include "algorithms/HeapSort.h"
-#include "algorithms/InsertionSort.h"
-#include "algorithms/MergeSort.h"
-#include "algorithms/QuickSort.h"
-#include "algorithms/SelectionSort.h"
-#include "algorithms/ShellSort.h"
-#include "expert_c_programming/AnalysisCDeclare.h"
-#include "program_design_basis/Test_4_8.h"
-#include "program_design_basis/Test_6_8.h"
-#include "program_design_basis/Test_6_11.h"
-#include "program_design_basis/Test_page_88.h"
-#include "program_design_basis/Test_page_89.h"
-
 
 using namespace std;
 
 int main() {
 	cout << "我的世界!" << endl;
 
-	//ClassTest a(1);
+	ClassTest a(1);
 	JumpTest();
 
-	//BubbleSort();
-	//HeapSort();
-	//InsertionSort();
-	//MergeSort();
-	//QuickSort();
-	//SelectionSort();
-	//ShellSort();
+	BubbleSort();
+	HeapSort();
+	InsertionSort();
+	MergeSort();
+	QuickSort();
+	SelectionSort();
+	ShellSort();
 
-	//AnalysisCDeclare();
+	AnalysisCDeclare();
 
-	//Test_4_8();
-	//Test_6_8();
-	//Test_6_11();
-	//Test_page_88();
-	//Test_page_89();
+	Test_4_8();
+	Test_6_8();
+	Test_6_11();
+	Test_page_88();
+	Test_page_89();
 
 	return 0;
 }

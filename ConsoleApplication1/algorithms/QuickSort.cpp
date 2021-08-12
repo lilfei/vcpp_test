@@ -1,6 +1,4 @@
-#include "pch.h"
-#include "QuickSort.h"
-
+#include "../pch.h"
 #include <iostream>
 #include <assert.h>
 
