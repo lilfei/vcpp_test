@@ -159,6 +159,7 @@
     <ClInclude Include="algorithms\ShellSort.h" />
     <ClInclude Include="algorithms\MergeSort.h" />
     <ClInclude Include="expert_c_programming\AnalysisCDeclare.h" />
+    <ClInclude Include="cpp_primer_plus\Practice_4.h" />
     <ClInclude Include="test\JumpTest.h" />
     <ClInclude Include="test\ClassTest.h" />
     <ClInclude Include="test\EnumTest.h" />
@@ -177,11 +178,8 @@
     <ClCompile Include="algorithms\InsertionSort.cpp" />
     <ClCompile Include="algorithms\ShellSort.cpp" />
     <ClCompile Include="algorithms\MergeSort.cpp" />
-    <ClCompile Include="c_primer_plus\hello_world_test.c">
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</SDLCheck>
-    </ClCompile>
     <ClCompile Include="expert_c_programming\AnalysisCDeclare.cpp" />
+    <ClCompile Include="cpp_primer_plus\Practice_4.cpp" />
     <ClCompile Include="test\JumpTest.cpp" />
     <ClCompile Include="test\ClassTest.cpp" />
     <ClCompile Include="ConsoleApplication1.cpp" />

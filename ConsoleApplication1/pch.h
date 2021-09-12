@@ -30,4 +30,6 @@
 #include "program_design_basis/Test_page_88.h"
 #include "program_design_basis/Test_page_89.h"
 
+#include "cpp_primer_plus/Practice_4.h"
+
 #endif //PCH_H

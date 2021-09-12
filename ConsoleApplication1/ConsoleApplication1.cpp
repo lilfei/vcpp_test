@@ -9,6 +9,7 @@ using namespace std;
 int main() {
 	cout << "我的世界!" << endl;
 
+#if 0
 	ClassTest a(1);
 	JumpTest();
 
@@ -27,6 +28,9 @@ int main() {
 	Test_6_11();
 	Test_page_88();
 	Test_page_89();
+#endif
+
+	Practice_4();
 
 	return 0;
 }
