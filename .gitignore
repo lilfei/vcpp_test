@@ -32,3 +32,4 @@
 *.app
 /.vs
 /ConsoleApplication1/x64
+Debug
