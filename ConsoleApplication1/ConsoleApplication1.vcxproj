@@ -160,6 +160,7 @@
     <ClInclude Include="algorithms\MergeSort.h" />
     <ClInclude Include="expert_c_programming\AnalysisCDeclare.h" />
     <ClInclude Include="cpp_primer_plus\Practice_4.h" />
+    <ClInclude Include="cpp_primer_plus\Practice_5.h" />
     <ClInclude Include="test\JumpTest.h" />
     <ClInclude Include="test\ClassTest.h" />
     <ClInclude Include="test\EnumTest.h" />
@@ -180,6 +181,7 @@
     <ClCompile Include="algorithms\MergeSort.cpp" />
     <ClCompile Include="expert_c_programming\AnalysisCDeclare.cpp" />
     <ClCompile Include="cpp_primer_plus\Practice_4.cpp" />
+    <ClCompile Include="cpp_primer_plus\Practice_5.cpp" />
     <ClCompile Include="test\JumpTest.cpp" />
     <ClCompile Include="test\ClassTest.cpp" />
     <ClCompile Include="ConsoleApplication1.cpp" />

@@ -28,9 +28,11 @@ int main() {
 	Test_6_11();
 	Test_page_88();
 	Test_page_89();
-#endif
 
 	Practice_4();
+#endif
+
+	Practice_5();
 
 	return 0;
 }
