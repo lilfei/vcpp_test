@@ -7,6 +7,7 @@ public:
 	int TextIn4();
 	int CcTypes();
 	int OutFile();
+	int SumAFile();
 	~Practice_5();
 };
 

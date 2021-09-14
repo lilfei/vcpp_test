@@ -6,6 +6,8 @@
 //   5. 转到“项目”>“添加新项”以创建新的代码文件，或转到“项目”>“添加现有项”以将现有代码文件添加到项目
 //   6. 将来，若要再次打开此项目，请转到“文件”>“打开”>“项目”并选择 .sln 文件
 
+#pragma once
+
 #ifndef PCH_H
 #define PCH_H
 
@@ -32,5 +34,6 @@
 
 #include "cpp_primer_plus/Practice_4.h"
 #include "cpp_primer_plus/Practice_5.h"
+#include "cpp_primer_plus/Practice_8.h"
 
 #endif //PCH_H
