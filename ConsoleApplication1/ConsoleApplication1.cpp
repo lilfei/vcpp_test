@@ -31,9 +31,10 @@ int main() {
 
 	Practice_4();
 	Practice_5();
+	Practice_8();
 #endif
 
-	Practice_8();
+	Practice_9();
 
 	return 0;
 }

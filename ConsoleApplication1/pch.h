@@ -35,5 +35,6 @@
 #include "cpp_primer_plus/Practice_4.h"
 #include "cpp_primer_plus/Practice_5.h"
 #include "cpp_primer_plus/Practice_8.h"
+#include "cpp_primer_plus/Practice_9.h"
 
 #endif //PCH_H

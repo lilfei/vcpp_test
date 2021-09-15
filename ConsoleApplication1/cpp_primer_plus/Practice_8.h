@@ -6,6 +6,7 @@ public:
 	int Inline();
 	int Swaps();
 	int FunTemp();
+	int TempTempOver();
 	~Practice_8();
 };
 
