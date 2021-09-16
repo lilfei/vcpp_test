@@ -84,6 +84,15 @@
     <ClInclude Include="cpp_primer_plus\practice_9\namesp.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="cpp_primer_plus\Practice_10.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cpp_primer_plus\practice_10\Stock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cpp_primer_plus\Practice_11.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -153,6 +162,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="cpp_primer_plus\practice_9\namesp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp_primer_plus\Practice_10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp_primer_plus\practice_10\Stock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp_primer_plus\Practice_11.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

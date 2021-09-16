@@ -32,9 +32,11 @@ int main() {
 	Practice_4();
 	Practice_5();
 	Practice_8();
-#endif
-
 	Practice_9();
+	Practice_10();
+#endif
+	
+	Practice_11();
 
 	return 0;
 }
