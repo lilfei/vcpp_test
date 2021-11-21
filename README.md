@@ -1,2 +1,2 @@
 # vcpp_test
-vc++ test
+c++ test on visual studio 2017
