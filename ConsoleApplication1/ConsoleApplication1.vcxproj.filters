@@ -93,6 +93,12 @@
     <ClInclude Include="cpp_primer_plus\Practice_11.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="cpp_primer_plus\Practice_12.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="algorithms\RedBlackTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -171,6 +177,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="cpp_primer_plus\Practice_11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp_primer_plus\Practice_12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="algorithms\RedBlackTree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

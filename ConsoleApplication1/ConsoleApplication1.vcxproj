@@ -167,6 +167,8 @@
     <ClInclude Include="cpp_primer_plus\Practice_10.h" />
     <ClInclude Include="cpp_primer_plus\practice_10\Stock.h" />
     <ClInclude Include="cpp_primer_plus\Practice_11.h" />
+    <ClInclude Include="cpp_primer_plus\Practice_12.h" />
+    <ClInclude Include="algorithms\RedBlackTree.h" />
     <ClInclude Include="test\JumpTest.h" />
     <ClInclude Include="test\ClassTest.h" />
     <ClInclude Include="test\EnumTest.h" />
@@ -194,6 +196,8 @@
     <ClCompile Include="cpp_primer_plus\Practice_10.cpp" />
     <ClCompile Include="cpp_primer_plus\practice_10\Stock.cpp" />
     <ClCompile Include="cpp_primer_plus\Practice_11.cpp" />
+    <ClCompile Include="cpp_primer_plus\Practice_12.cpp" />
+    <ClCompile Include="algorithms\RedBlackTree.cpp" />
     <ClCompile Include="test\JumpTest.cpp" />
     <ClCompile Include="test\ClassTest.cpp" />
     <ClCompile Include="ConsoleApplication1.cpp" />
